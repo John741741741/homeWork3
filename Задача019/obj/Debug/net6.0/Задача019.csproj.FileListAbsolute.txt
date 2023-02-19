@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\bin\Debug\net6.0\Задача019.exe
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\bin\Debug\net6.0\Задача019.deps.json
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\bin\Debug\net6.0\Задача019.runtimeconfig.json
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\bin\Debug\net6.0\Задача019.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\bin\Debug\net6.0\Задача019.pdb
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.AssemblyInfo.cs
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\refint\Задача019.dll
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.pdb
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\Задача019.genruntimeconfig.cache
+C:\Users\John\Desktop\Geek brains\C#\HomeWork3\Задача019\obj\Debug\net6.0\ref\Задача019.dll
