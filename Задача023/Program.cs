@@ -9,4 +9,4 @@ int secondKub = Convert.ToInt32(Console.ReadLine());
 
 for (int i = 1; i <= secondKub; i++)
 
-System.Console.WriteLine($"{Math.Pow(i, 3)}");
+    System.Console.WriteLine($"{Math.Pow(i, 3)}");
